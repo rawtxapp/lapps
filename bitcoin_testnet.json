@@ -1,9 +1,9 @@
 [{
-        id: "rawtx-chat-localhost",
-        icon: "https://chat.rawtx.com/apple-touch-icon.png",
-        name: "rawtx chat",
-        description: "a realtime chat application with lightning.",
-        pubkey:
+        "id": "rawtx-chat-localhost",
+        "icon": "https://chat.rawtx.com/apple-touch-icon.png",
+        "name": "rawtx chat",
+        "description": "a realtime chat application with lightning.",
+        "pubkey":
           "02e53fcf06df8242cb36d1cb802146895307aeeb20b31622672601a9efa6eaacc8",
-        url: "https://chat.rawtx.com"
+        "url": "https://chat.rawtx.com"
       }]
