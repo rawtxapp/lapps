@@ -5,6 +5,7 @@
     "name": "rawtx chat",
     "description": "a realtime chat application",
     "pubkey": "03c4698fd8a00bff6244ad4fe8d5a95cb103f113cb760b00b9cd2ba7c3ab3c63aa",
+    "address": "159.89.221.66:9735",
     "url": "https://chat.rawtx.com",
     "themeColor": "#f5f0f6",
     "microEnabled": true
