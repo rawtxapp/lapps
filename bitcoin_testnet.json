@@ -20,6 +20,7 @@
     "url": "https://testnet.yalls.org/",
     "themeColor": "#343a40",
     "statusBarContentColor": "white",
+    "statusBarStyle": "light-content",
     "microEnabled": false
   }
 ]
