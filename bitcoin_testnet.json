@@ -1,7 +1,7 @@
 [
   {
     "id": "rawtx-chat",
-    "icon": "https://chat.rawtx.com/apple-touch-icon.png",
+    "icon": "https://lapps.rawtx.com/icons/rawtx-chat.png",
     "name": "rawtx chat",
     "description": "a realtime chat application",
     "pubkey": "03c4698fd8a00bff6244ad4fe8d5a95cb103f113cb760b00b9cd2ba7c3ab3c63aa",
