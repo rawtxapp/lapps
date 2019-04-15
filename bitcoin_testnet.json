@@ -9,5 +9,16 @@
     "url": "https://chat.rawtx.com",
     "themeColor": "#f5f0f6",
     "microEnabled": true
+  },
+  {
+    "id": "yalls-testnet",
+    "icon": "https://lapps.rawtx.com/icons/yalls.png",
+    "name": "yalls",
+    "description": "forum",
+    "pubkey": "02a68237add204623021d09b0334c4992c132eb3c9dcfcb8f3cf8a57386775538e",
+    "address": "testnet-lnd.yalls.org",
+    "url": "https://testnet.yalls.org/",
+    "themeColor": "#343a40",
+    "microEnabled": false
   }
 ]
