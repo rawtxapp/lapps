@@ -19,6 +19,7 @@
     "address": "testnet-lnd.yalls.org",
     "url": "https://testnet.yalls.org/",
     "themeColor": "#343a40",
+    "statusBarContentColor": "white",
     "microEnabled": false
   }
 ]
