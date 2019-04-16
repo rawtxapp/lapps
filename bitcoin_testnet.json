@@ -22,5 +22,15 @@
     "statusBarContentColor": "white",
     "statusBarStyle": "light-content",
     "microEnabled": false
+  },
+  {
+    "id": "starblocks-testnet",
+    "icon": "https://lapps.rawtx.com/icons/starblocks.png",
+    "name": "starblocks",
+    "description": "coffee",
+    "pubkey": "03933884aaf1d6b108397e5efe5c86bcf2d8ca8d2f700eda99db9214fc2712b134",
+    "address": "34.250.234.192:9735",
+    "url": "https://starblocks.acinq.co/",
+    "microEnabled": false
   }
 ]
